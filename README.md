@@ -17,7 +17,7 @@ Use the included dummy data to build a back end application to interact with the
 
 ### If you finish that
 
-1. Run `create-react-app .` in the current directory to generate a front end.
+1. Run `create-react-app` in a new directory, migrate your server folder to this new React app
 2. Create a front end interface to interact with this data set. Display all of your users and make them searchable.
    1. Have some fun with the styling here. Experiment with different layouts and color schemes.
 3. Create forms to edit existing users or add new ones
